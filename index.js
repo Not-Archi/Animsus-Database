@@ -1,4 +1,3 @@
-const { downloadTiktok } = require("@mrnima/tiktok-downloader"); 
 const express = require('express');
 const tiktokdl = require('@faouzkk/tiktok-dl');
 const app = express();
